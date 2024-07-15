@@ -21,7 +21,7 @@ This is a shopping cart application built with React, Redux Toolkit, and React B
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/shopping-cart.git
+    git clone hhttps://github.com/Bharath-Parthipan/React-Redux-Task.git
     ```
 
 2. Navigate to the project directory:
