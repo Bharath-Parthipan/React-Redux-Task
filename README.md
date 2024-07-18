@@ -27,7 +27,7 @@ This is a shopping cart application built with React, Redux Toolkit, and React B
 2. Navigate to the project directory:
 
     ```bash
-    cd shopping-cart
+    cd React-Redux-Task
     ```
 
 3. Install the dependencies:
